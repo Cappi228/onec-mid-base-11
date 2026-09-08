@@ -307,7 +307,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>CatalogObject.КонтактныеЛица</types>
+      <types>CatalogObject.КЛ_КонтактныеЛица</types>
     </valueType>
     <view>
       <common>true</common>

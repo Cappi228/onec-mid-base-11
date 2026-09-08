@@ -7,14 +7,14 @@
     <listType typeId="c0054de9-fa5f-492d-9a05-d3a952fd9812" valueTypeId="2c84179c-8c14-42f0-8f68-39a12c99169b"/>
     <managerType typeId="5e38a24e-c1a5-4777-81a0-e1f83152b446" valueTypeId="33a969e0-45c0-4fa7-9c53-b54deb6e7915"/>
   </producedTypes>
-  <name>ДолжностиКонтактныхЛиц</name>
+  <name>КЛ_ДолжностиКонтактныхЛиц</name>
   <synonym>
     <key>ru</key>
     <value>Должности контактных лиц</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.ДолжностиКонтактныхЛиц.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.ДолжностиКонтактныхЛиц.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.КЛ_ДолжностиКонтактныхЛиц.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.КЛ_ДолжностиКонтактныхЛиц.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>

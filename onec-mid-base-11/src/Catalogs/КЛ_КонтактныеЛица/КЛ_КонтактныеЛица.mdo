@@ -7,14 +7,14 @@
     <listType typeId="841a42ff-3ba6-4fc8-bdaa-81516837d689" valueTypeId="483f30f7-d045-4b7c-b327-d86cb07fe8fa"/>
     <managerType typeId="94620a19-ecac-410a-baae-e53fb4e3c842" valueTypeId="b359a830-613c-4eff-8b96-a27f78ef66d6"/>
   </producedTypes>
-  <name>КонтактныеЛица</name>
+  <name>КЛ_КонтактныеЛица</name>
   <synonym>
     <key>ru</key>
     <value>Контактные лица</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.КонтактныеЛица.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.КонтактныеЛица.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.КЛ_КонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.КЛ_КонтактныеЛица.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -116,7 +116,7 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <defaultObjectForm>Catalog.КонтактныеЛица.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultObjectForm>Catalog.КЛ_КонтактныеЛица.Form.ФормаЭлемента</defaultObjectForm>
   <attributes uuid="645b7525-c280-432a-886d-6b97e4a9a18c">
     <name>Телефон</name>
     <synonym>
@@ -142,7 +142,7 @@
       <value>Должность</value>
     </synonym>
     <type>
-      <types>CatalogRef.ДолжностиКонтактныхЛиц</types>
+      <types>CatalogRef.КЛ_ДолжностиКонтактныхЛиц</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
